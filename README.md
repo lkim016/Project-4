@@ -25,9 +25,7 @@ Note: the dataset is too large to upload onto GitHub so need to retrieve the dat
 Zillow price project dataset: https://www.kaggle.com/c/zillow-prize-1
 
 ## Project Guide
-Objective: Analyze the U.S. Chronic Disease indicators to explore the correlation of obesity against other health indicators.
-
-• In Project 3, you have explored Zillow Prize Project. Now let’s find out what
+Objective: In Project 3, you have explored Zillow Prize Project. Now let’s find out what
 variables/predictors will be able to predict the Zestimate’s forecast errors:
 logerror = log(Zestimate)-log(SalePrice)
 
