@@ -50,12 +50,12 @@ variables.
 geographic information and ID, (2) one value, or (3) pure linear combination of other
 variables.
 
- - • id_parcel, fips, latitude, longitude, zoning_landuse_county, zoning_property,
+ - id_parcel, fips, latitude, longitude, zoning_landuse_county, zoning_property,
 rawcensustractandblock, region_city, region_zip, censustractandblock.
 
- - • tax_year
+ - tax_year
 
- - • tax_building and tax_land (note that tax_building+tax_land = tax_total)
+ - tax_building and tax_land (note that tax_building+tax_land = tax_total)
 
 6. Now you should have 15 variables in the data frame.
 
