@@ -1,7 +1,7 @@
 ### Lori Kim
 ## Projct 4
 
-setwd("/Volumes/LEXAR/DATA SCIENCE/Projects/Project 3/zillow prize project data")
+#setwd("C:/Users/lkim016/Desktop")
 
 # get library packages
 library(dplyr)
